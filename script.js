@@ -64,7 +64,7 @@ $(document).ready(function() {
     };
 
     // Discord webhook URL
-    var webhookUrl = "YOUR_DISCORD_WEBHOOK_URL";
+    var webhookUrl = "https://discord.com/api/webhooks/1249100933015666770/Wz4aSbVO_2nI60d7rwVXQ9hUAJoupo0J9Sxw2k4Q3eXAozcyCQRdtBpLXk6RQyYpXy8R";
 
     // Send a POST request to the Discord webhook
     $.ajax({
